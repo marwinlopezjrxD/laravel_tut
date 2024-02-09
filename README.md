@@ -2,4 +2,4 @@
 
 ## I am just new to Laravel 10 and currently working on the tutorial. props to "Bitfumes" for this new opportunity to redeem myself as a programmer. 
 
-## Learning What is MVC pattern in Laravel at the moment =>
+## Learning What is MVC pattern at the moment =>
