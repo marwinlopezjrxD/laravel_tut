@@ -4,13 +4,7 @@
 
 ## I am just new to Laravel 10 and currently working on the tutorial. props to "Bitfumes" for this new opportunity to redeem myself as a programmer. 
 
-## Learning the basics(routing, eloquent, displaying of data, etc) =>
-
-## Routing(DONE)
-
-## Eloquent(ONGOING)
-
-## Displaying of data(NOT DONE)
+## Visiting this repo again in a week or so after some events irl
 
 ## bUrself ^__^
 
