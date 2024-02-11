@@ -4,7 +4,13 @@
 
 ## I am just new to Laravel 10 and currently working on the tutorial. props to "Bitfumes" for this new opportunity to redeem myself as a programmer. 
 
-## Learning the basics(routing(DONE), eloquent, displaying of data, etc) =>
+## Learning the basics(routing, eloquent, displaying of data, etc) =>
+
+## Routing(DONE)
+
+## Eloquent(ONGOING)
+
+## Displaying of data(NOT DONE)
 
 ## bUrself ^__^
 
