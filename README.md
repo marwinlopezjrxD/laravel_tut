@@ -1,13 +1,9 @@
-# Laravel 10 Practice
+## REPO UPDATED
 
-## ---------------------------------------------------------------------------------
+## MONDAY, JANUARY 20, 2026
 
-## I am just new to Laravel 10 and currently working on the tutorial. props to "Bitfumes" for this new opportunity to redeem myself as a programmer. 
-
-## Visiting this repo again in a week or so after some events happening irl
-
-## bUrself ^__^
-
-## ---------------------------------------------------------------------------------
+## 11:17 AM Monday, January 20, 2025 (GMT+8) Time in Mandaluyong, Metro Manila
 
 ## IS BACK 
+
+## ---------------------------------------------------------------------------------
